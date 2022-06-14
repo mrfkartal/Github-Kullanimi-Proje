@@ -7,7 +7,6 @@ public class GithubKullanimi {
 
         System.out.println("that's it");
 
-
         System.out.println("Omer branchinda ortak class'da degisiklik yaptim");
 
     }
